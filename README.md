@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'am REF </h1>
 <h2> # 💫 About Me: </h2>
-🌱 I’m currently learning Go<br>💬 Ask me about JavaScript, Python<br>📫 How to reach me refikcankimdir@gmail.com<br>📝 My website I'm working on https://potatoref.com/
+🌱 I’m currently learning Go<br>💬 Ask me about JavaScript, Python<br>📫 How to reach me refikcanbozkurt@hotmail.com<br>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
