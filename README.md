@@ -1,11 +1,10 @@
-# Hi there, I'm Refik Can Bozkurt 👋
-
-html
-<h1 align="center">
-  <a href="https://your-link.com" style="text-decoration:none">
-    <span id="typing"></span>
-  </a>
-</h1>
+# <div align="center">
+  <h1>
+    <a href="https://your-link.com" style="text-decoration:none">
+      <span id="typing"></span>
+    </a>
+  </h1>
+</div>
 
 <script>
   var i = 0;
@@ -22,7 +21,6 @@ html
 
   typeWriter();
 </script>
-
 
 I'm a Web Developer at Google, based in Berlin, Germany. With a passion for every aspect of software development, I enjoy learning new technologies and continuously improving my skills.
 
