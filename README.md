@@ -1,6 +1,6 @@
-<p align="center" style="font-size: 50px;">
+<h1 align="center">
   Hi there, I'm Refik Can Bozkurt 👋
-</p>
+</h1>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google Logo" width="400"/>
