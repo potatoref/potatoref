@@ -1,5 +1,9 @@
 # Hi there, I'm Refik Can Bozkurt 👋
 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google Logo" width="400"/>
+</p>
+
 I'm a Web Developer at Google, based in Berlin, Germany. With a passion for every aspect of software development, I enjoy learning new technologies and continuously improving my skills.
 
 ## 🚀 Professional Summary
