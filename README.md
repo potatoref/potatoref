@@ -1,4 +1,4 @@
-# "Hi there, I'm Refik Can Bozkurt 👋
+# Hi there, I'm Refik Can Bozkurt 👋
 
 I'm a Web Developer at Google, based in Berlin, Germany. With a passion for every aspect of software development, I enjoy learning new technologies and continuously improving my skills.
 
@@ -25,12 +25,6 @@ I'm a Web Developer at Google, based in Berlin, Germany. With a passion for ever
 - ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 - ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 - ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-
-## Certifications
-- Programming for Everybody (Python)
-- Deep Learning
-- Crash Course on Python
-- Learn HTML Course
 
 ## 🌍 Languages
 - **English:** Professional Working Proficiency
