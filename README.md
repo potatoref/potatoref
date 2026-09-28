@@ -1,51 +1,50 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img alt="Refik Can Bozkurt — Backend Engineer at Google, Berlin" src="./assets/header-light.svg" width="100%">
-</picture>
+<!-- Hero -->
+<p align="center">
+  <img src="./assets/hero.svg" alt="Refik Can Bozkurt — Backend Engineer at Google, Berlin" width="100%">
+</p>
 
-<br>
-
-I'm a backend engineer at **Google** in Berlin. For the past 4+ years I've been building production systems that have to keep running — starting on industrial IoT at **TOFAŞ**, moving to enterprise software at **OpenText** in Toronto, and now working on the web at Google.
-
-I care about boring, reliable infrastructure, clean APIs, and code the next person can read.
-
-<br>
-
-### Where I've been
-
-| | Role | Where |
-|:--|:--|:--|
-| **Now** | Web / Backend Engineer · **Google** | Berlin, DE |
-| | Web Developer · **OpenText** | Toronto, CA |
-| | IT Intern · **TOFAŞ** | Bursa, TR |
-| | Computer Engineering · **Uludağ University** | Bursa, TR |
-
-<br>
-
-### What I work with
-
-<p>
-  <img src="https://skillicons.dev/icons?i=go,python,js,cpp,cs,dart&perline=12" alt="Go, Python, JavaScript, C++, C#, Dart" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,php,mysql,html,css,flutter&perline=12" alt="React, PHP, MySQL, HTML, CSS, Flutter" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/refikcanbozkurt/"><img src="https://img.shields.io/badge/LinkedIn-Connect-4285F4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:refikcankimdir@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.instagram.com/caanbzkrtt/"><img src="https://img.shields.io/badge/Instagram-caanbzkrtt-FBBC05?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
+  <img src="https://komarev.com/ghpvc/?username=potatoref&label=Profile%20views&color=34A853&style=for-the-badge" alt="Profile views">
 </p>
 
 <br>
 
-### Things I've built
+I'm a backend engineer at **Google** in Berlin. For 4+ years I've been building production systems that have to keep running — from industrial IoT on the factory floor at **TOFAŞ**, to enterprise software at **OpenText** in Toronto, to the web at Google.
 
-| Project | What it is | Stack |
-|:--|:--|:--|
-| [**Speech Recognition App**](https://github.com/potatoref/Speech-Recognition-Application) | Real-time transcription that counts target words and outputs subtitle-ready text | Python · Tkinter |
-| [**Tetris**](https://github.com/potatoref/tetris-game) | A full Tetris clone, built to learn Dart and game loops | Dart |
-| [**Discord Team Raffle Bot**](https://github.com/potatoref/discord-team-raffle-bot) | Splits a server's members into random, balanced teams | Python |
+I like boring, reliable infrastructure, clean APIs, and code the next person can actually read.
 
 <br>
 
-### Get in touch
+<!-- Journey -->
+<img src="./assets/journey.svg" alt="Career path: Uludağ University → TOFAŞ → OpenText → Google" width="100%">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-refikcanbozkurt-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/refikcanbozkurt/)
-[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:refikcankimdir@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-caanbzkrtt-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/caanbzkrtt/)
+<br><br>
 
-<sub>Always happy to talk about backend architecture, Go, or moving from Bursa to Berlin.</sub>
+## Currently building
+
+<img src="./assets/now-gemini.svg" alt="Currently building Gemini at Google" width="100%">
+
+<br>
+
+## Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,js,cpp,cs,dart&theme=dark" alt="Languages"><br>
+  <img src="https://skillicons.dev/icons?i=react,flutter,php,mysql,html,css,git&theme=dark" alt="Tools">
+</p>
+
+<br>
+
+## Contributions, eaten live
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/potatoref/potatoref/output/snake-dark.svg">
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/potatoref/potatoref/output/snake-light.svg" width="100%">
+</picture>
+
+<br><br>
+
+<img src="./assets/footer.svg" alt="Thanks for stopping by" width="100%">

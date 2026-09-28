@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-label="Refik Can Bozkurt — Backend Engineer at Google, Berlin">
+<defs>
+<clipPath id="card"><rect width="1200" height="440" rx="20"/></clipPath>
+<filter id="blur" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="70"/></filter>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#e6edf3" opacity=".09"/></pattern>
+<linearGradient id="fadeL" x1="0" x2="1"><stop offset=".35" stop-color="#0d1117" stop-opacity=".92"/><stop offset=".62" stop-color="#0d1117" stop-opacity="0"/></linearGradient>
+<linearGradient id="flow" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="600" y2="0" spreadMethod="repeat">
+<stop offset="0" stop-color="#4285F4"/><stop offset=".25" stop-color="#EA4335"/><stop offset=".5" stop-color="#FBBC05"/><stop offset=".75" stop-color="#34A853"/><stop offset="1" stop-color="#4285F4"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="600 0" dur="6s" repeatCount="indefinite"/>
+</linearGradient>
+<linearGradient id="bar" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="1200" y2="0" spreadMethod="repeat">
+<stop offset="0" stop-color="#4285F4"/><stop offset=".25" stop-color="#EA4335"/><stop offset=".5" stop-color="#FBBC05"/><stop offset=".75" stop-color="#34A853"/><stop offset="1" stop-color="#4285F4"/>
+<animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1200 0" dur="4s" repeatCount="indefinite"/>
+</linearGradient>
+<clipPath id="type"><rect x="64" y="60" width="0" height="34"><animate attributeName="width" from="0" to="290" begin=".2s" dur="1s" fill="freeze" calcMode="discrete" values="0;40;70;100;130;160;190;220;250;290" keyTimes="0;.11;.22;.33;.44;.55;.66;.77;.88;1"/></rect></clipPath>
+<style>
+.s{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Helvetica,Arial,sans-serif}
+.m{font-family:ui-monospace,SFMono-Regular,"SF Mono",Menlo,Consolas,"Liberation Mono",monospace}
+
+.in{opacity:0;animation:in .9s cubic-bezier(.2,.8,.2,1) forwards}
+@keyframes in{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+.pop{opacity:0;animation:in .6s cubic-bezier(.2,.8,.2,1) forwards}
+.wd{opacity:0;animation:wd 12s infinite}
+@keyframes wd{0%{opacity:0;transform:translateY(12px)}3%,22%{opacity:1;transform:none}25%,100%{opacity:0;transform:translateY(-12px)}}
+.cur{animation:blink 1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+</style>
+</defs>
+<g clip-path="url(#card)">
+<rect width="1200" height="440" fill="#0d1117"/>
+<circle cx="760" cy="80" r="170" fill="#4285F4" opacity=".22" filter="url(#blur)">
+<animateTransform attributeName="transform" type="translate" values="0 0;90 50;0 0" dur="14s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/></circle><circle cx="1120" cy="120" r="170" fill="#EA4335" opacity=".22" filter="url(#blur)">
+<animateTransform attributeName="transform" type="translate" values="0 0;-80 70;0 0" dur="17s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/></circle><circle cx="1060" cy="420" r="170" fill="#FBBC05" opacity=".22" filter="url(#blur)">
+<animateTransform attributeName="transform" type="translate" values="0 0;-70 -60;0 0" dur="15s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/></circle><circle cx="620" cy="420" r="170" fill="#34A853" opacity=".22" filter="url(#blur)">
+<animateTransform attributeName="transform" type="translate" values="0 0;110 -40;0 0" dur="19s" repeatCount="indefinite" calcMode="spline" keySplines=".45 0 .55 1;.45 0 .55 1"/></circle>
+<rect width="1200" height="440" fill="url(#dots)"/>
+<g transform="rotate(0 945 220)"><circle cx="945" cy="220" r="150" fill="none" stroke="#30363d" stroke-width="1.5" stroke-dasharray="2 9"/><animateTransform attributeName="transform" type="rotate" from="0 945 220" to="360 945 220" dur="60s" repeatCount="indefinite"/></g>
+<g><circle cx="945" cy="220" r="92" fill="none" stroke="#30363d" stroke-width="1" stroke-dasharray="14 10"/><animateTransform attributeName="transform" type="rotate" from="360 945 220" to="0 945 220" dur="40s" repeatCount="indefinite"/></g>
+<line x1="945" y1="220" x2="945" y2="70" stroke="#4285F4" stroke-opacity=".35" stroke-width="2" stroke-dasharray="3 7"><animate attributeName="stroke-dashoffset" from="0" to="-20" dur="1s" repeatCount="indefinite"/></line><line x1="945" y1="220" x2="1095" y2="220" stroke="#EA4335" stroke-opacity=".35" stroke-width="2" stroke-dasharray="3 7"><animate attributeName="stroke-dashoffset" from="0" to="-20" dur="1s" repeatCount="indefinite"/></line><line x1="945" y1="220" x2="945" y2="370" stroke="#FBBC05" stroke-opacity=".35" stroke-width="2" stroke-dasharray="3 7"><animate attributeName="stroke-dashoffset" from="0" to="-20" dur="1s" repeatCount="indefinite"/></line><line x1="945" y1="220" x2="795" y2="220" stroke="#34A853" stroke-opacity=".35" stroke-width="2" stroke-dasharray="3 7"><animate attributeName="stroke-dashoffset" from="0" to="-20" dur="1s" repeatCount="indefinite"/></line><circle r="4" fill="#4285F4" opacity=".95"><animateMotion path="M945,220 L945,70" dur="1.6s" begin="0.0s" repeatCount="indefinite"/></circle><circle r="3" fill="#e6edf3" opacity=".95"><animateMotion path="M945,70 L945,220" dur="1.6s" begin="0.8s" repeatCount="indefinite"/></circle><circle r="4" fill="#EA4335" opacity=".95"><animateMotion path="M945,220 L1095,220" dur="1.8s" begin="0.4s" repeatCount="indefinite"/></circle><circle r="3" fill="#e6edf3" opacity=".95"><animateMotion path="M1095,220 L945,220" dur="1.8s" begin="1.2s" repeatCount="indefinite"/></circle><circle r="4" fill="#FBBC05" opacity=".95"><animateMotion path="M945,220 L945,370" dur="2.0s" begin="0.8s" repeatCount="indefinite"/></circle><circle r="3" fill="#e6edf3" opacity=".95"><animateMotion path="M945,370 L945,220" dur="2.0s" begin="1.6s" repeatCount="indefinite"/></circle><circle r="4" fill="#34A853" opacity=".95"><animateMotion path="M945,220 L795,220" dur="2.2s" begin="1.2s" repeatCount="indefinite"/></circle><circle r="3" fill="#e6edf3" opacity=".95"><animateMotion path="M795,220 L945,220" dur="2.2s" begin="2.0s" repeatCount="indefinite"/></circle><g>
+<circle cx="945" cy="70" r="30" fill="none" stroke="#4285F4" stroke-width="2"><animate attributeName="r" values="30;50" dur="2.4s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></circle>
+<circle cx="945" cy="70" r="30" fill="#161b22" stroke="#4285F4" stroke-width="2"/>
+<text x="945" y="75" text-anchor="middle" class="m" font-size="14" font-weight="700" fill="#4285F4">API</text></g><g>
+<circle cx="1095" cy="220" r="30" fill="none" stroke="#EA4335" stroke-width="2"><animate attributeName="r" values="30;50" dur="2.4s" begin="0.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.4s" begin="0.6s" repeatCount="indefinite"/></circle>
+<circle cx="1095" cy="220" r="30" fill="#161b22" stroke="#EA4335" stroke-width="2"/>
+<text x="1095" y="225" text-anchor="middle" class="m" font-size="14" font-weight="700" fill="#EA4335">DB</text></g><g>
+<circle cx="945" cy="370" r="30" fill="none" stroke="#FBBC05" stroke-width="2"><animate attributeName="r" values="30;50" dur="2.4s" begin="1.2s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.4s" begin="1.2s" repeatCount="indefinite"/></circle>
+<circle cx="945" cy="370" r="30" fill="#161b22" stroke="#FBBC05" stroke-width="2"/>
+<text x="945" y="375" text-anchor="middle" class="m" font-size="14" font-weight="700" fill="#FBBC05">CDN</text></g><g>
+<circle cx="795" cy="220" r="30" fill="none" stroke="#34A853" stroke-width="2"><animate attributeName="r" values="30;50" dur="2.4s" begin="1.8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0" dur="2.4s" begin="1.8s" repeatCount="indefinite"/></circle>
+<circle cx="795" cy="220" r="30" fill="#161b22" stroke="#34A853" stroke-width="2"/>
+<text x="795" y="225" text-anchor="middle" class="m" font-size="14" font-weight="700" fill="#34A853">ML</text></g><rect x="897" y="172" width="96" height="96" rx="20" fill="#161b22" stroke="url(#flow)" stroke-width="3"/><rect x="915" y="190" width="60" height="16" rx="5" fill="#21262d"/><circle cx="925" cy="198" r="3.5" fill="#4285F4"><animate attributeName="opacity" values="1;.2;1" dur="0.80s" repeatCount="indefinite"/></circle><rect x="935" y="196" width="30" height="4" rx="2" fill="#30363d"/><rect x="915" y="212" width="60" height="16" rx="5" fill="#21262d"/><circle cx="925" cy="220" r="3.5" fill="#EA4335"><animate attributeName="opacity" values="1;.2;1" dur="1.15s" repeatCount="indefinite"/></circle><rect x="935" y="218" width="30" height="4" rx="2" fill="#30363d"/><rect x="915" y="234" width="60" height="16" rx="5" fill="#21262d"/><circle cx="925" cy="242" r="3.5" fill="#34A853"><animate attributeName="opacity" values="1;.2;1" dur="1.50s" repeatCount="indefinite"/></circle><rect x="935" y="240" width="30" height="4" rx="2" fill="#30363d"/>
+<rect width="1200" height="440" fill="url(#fadeL)"/>
+
+<text x="64" y="86" class="m" font-size="18" fill="#6e7681" clip-path="url(#type)">~/berlin <tspan fill="#34A853">❯</tspan> <tspan fill="#e6edf3">whoami</tspan></text>
+<rect class="cur" x="296" y="70" width="10" height="20" fill="#4285F4"/>
+<text x="60" y="178" class="s in" style="animation-delay:1.2s" font-size="68" font-weight="800" letter-spacing="-2" fill="url(#flow)">Refik Can Bozkurt</text>
+<text x="64" y="228" class="s in" style="animation-delay:1.5s" font-size="24" fill="#9198a1">Backend Engineer at <tspan fill="#e6edf3" font-weight="700">Google</tspan> · Berlin</text>
+<g class="in" style="animation-delay:1.8s"><text x="64" y="286" class="s" font-size="26" font-weight="600" fill="#e6edf3">I build</text><text x="166" y="286" class="s wd" font-size="26" font-weight="600" fill="#4285F4" style="animation-delay:0s">scalable APIs.</text><text x="166" y="286" class="s wd" font-size="26" font-weight="600" fill="#EA4335" style="animation-delay:3s">distributed systems.</text><text x="166" y="286" class="s wd" font-size="26" font-weight="600" fill="#FBBC05" style="animation-delay:6s">reliable infrastructure.</text><text x="166" y="286" class="s wd" font-size="26" font-weight="600" fill="#34A853" style="animation-delay:9s">Gemini, at Google scale.</text></g>
+<g class="pop" style="animation-delay:2.20s"><rect x="64" y="330" width="124" height="34" rx="17" fill="#161b22" fill-opacity=".8" stroke="#30363d"/><circle cx="82" cy="347" r="3.5" fill="#4285F4"/><circle cx="91" cy="347" r="3.5" fill="#EA4335"/><circle cx="100" cy="347" r="3.5" fill="#FBBC05"/><circle cx="109" cy="347" r="3.5" fill="#34A853"/><text x="122" y="352" class="m" font-size="14" fill="#e6edf3">Google</text></g><g class="pop" style="animation-delay:2.35s"><rect x="198" y="330" width="118" height="34" rx="17" fill="#161b22" fill-opacity=".8" stroke="#30363d"/><text x="214" y="352" class="m" font-size="14" fill="#e6edf3">Berlin, DE</text></g><g class="pop" style="animation-delay:2.50s"><rect x="326" y="330" width="158" height="34" rx="17" fill="#161b22" fill-opacity=".8" stroke="#30363d"/><text x="342" y="352" class="m" font-size="14" fill="#e6edf3">4+ yrs backend</text></g><g class="pop" style="animation-delay:2.65s"><rect x="494" y="330" width="176" height="34" rx="17" fill="#161b22" fill-opacity=".8" stroke="#30363d"/><text x="510" y="352" class="m" font-size="14" fill="#e6edf3">Go · Python · JS</text></g>
+<rect y="435" width="1200" height="5" fill="url(#bar)"/>
+</g>
+<rect x=".5" y=".5" width="1199" height="439" rx="20" fill="none" stroke="#30363d"/>
+</svg>
