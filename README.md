@@ -1,43 +1,51 @@
-<h1 align="center">
-  Hi there, I'm Refik Can Bozkurt 👋
-</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img alt="Refik Can Bozkurt — Backend Engineer at Google, Berlin" src="./assets/header-light.svg" width="100%">
+</picture>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google Logo" width="400"/>
+<br>
+
+I'm a backend engineer at **Google** in Berlin. For the past 4+ years I've been building production systems that have to keep running — starting on industrial IoT at **TOFAŞ**, moving to enterprise software at **OpenText** in Toronto, and now working on the web at Google.
+
+I care about boring, reliable infrastructure, clean APIs, and code the next person can read.
+
+<br>
+
+### Where I've been
+
+| | Role | Where |
+|:--|:--|:--|
+| **Now** | Web / Backend Engineer · **Google** | Berlin, DE |
+| | Web Developer · **OpenText** | Toronto, CA |
+| | IT Intern · **TOFAŞ** | Bursa, TR |
+| | Computer Engineering · **Uludağ University** | Bursa, TR |
+
+<br>
+
+### What I work with
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,python,js,cpp,cs,dart&perline=12" alt="Go, Python, JavaScript, C++, C#, Dart" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,php,mysql,html,css,flutter&perline=12" alt="React, PHP, MySQL, HTML, CSS, Flutter" />
 </p>
 
-I'm a Web Developer at Google, based in Berlin, Germany. With a passion for every aspect of software development, I enjoy learning new technologies and continuously improving my skills.
+<br>
 
-## 🚀 Professional Summary
-- **Current Role:** Web Developer @Google
-- **Experience:** Over a year of professional experience in web development.
-- **Previous Positions:** 
-  - Web Developer @OpenText, Toronto, Canada
-  - IT Intern @TOFAŞ Türk Otomobil Fabrikası A.Ş., Bursa, Turkey
+### Things I've built
 
-## 🔧 Technologies & Skills
+| Project | What it is | Stack |
+|:--|:--|:--|
+| [**Speech Recognition App**](https://github.com/potatoref/Speech-Recognition-Application) | Real-time transcription that counts target words and outputs subtitle-ready text | Python · Tkinter |
+| [**Tetris**](https://github.com/potatoref/tetris-game) | A full Tetris clone, built to learn Dart and game loops | Dart |
+| [**Discord Team Raffle Bot**](https://github.com/potatoref/discord-team-raffle-bot) | Splits a server's members into random, balanced teams | Python |
 
-**Programming Languages:**
-- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-- ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-- ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-- ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+<br>
 
-**Web Technologies:**
-- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+### Get in touch
 
-## 🌍 Languages
-- **English:** Professional Working Proficiency
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-refikcanbozkurt-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/refikcanbozkurt/)
+[![Email](https://img.shields.io/badge/Email-Say_hello-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:refikcankimdir@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-caanbzkrtt-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/caanbzkrtt/)
 
-## 📈 GitHub Stats
-![Refik's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-## 📫 How to Reach Me
-- **Email:** [refikcankimdir@gmail.com](mailto:refikcankimdir@gmail.com)
-- **LinkedIn:** [Refik Can Bozkurt](https://www.linkedin.com/in/refikcanbozkurt/)
+<sub>Always happy to talk about backend architecture, Go, or moving from Bursa to Berlin.</sub>
